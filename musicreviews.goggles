@@ -1,0 +1,18 @@
+! name: My Plex Review Tool
+! description: A reduced set of links that are for finding reviews of albums in Plex
+! public: false
+! author: Matt Goldspink
+
+$discard
+
+$boost=1,$site=mixmag.net
+$boost=1,$site=ra.co
+$boost=1,$site=residentadvisor.net
+$boost=1,$site=djmag.com
+$boost=1,$site=discogs.com
+$boost=1,$site=balancemusic.com.au
+$boost=1,$site=pitchfork.com
+$boost=1,$site=upfrontbeats.com
+
+$boost=3,$site=amazon.co.uk
+$boost=3,$site=amazon.com

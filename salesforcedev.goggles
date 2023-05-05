@@ -1,0 +1,9 @@
+! name: Salesforce Developer Docs
+! description: A reduced set of links that are for Salesforce developers
+! public: true
+! author: Matt Goldspink
+
+$discard
+
+/docs^$boost=1,site=developer.salesforce.com
+$boost=3,site=salesforce.stackexchange.com
