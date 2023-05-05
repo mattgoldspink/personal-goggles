@@ -5,5 +5,5 @@
 
 $discard
 
-/docs^$boost=1,site=developer.salesforce.com
+$boost=1,site=developer.salesforce.com
 $boost=3,site=salesforce.stackexchange.com
