@@ -3,7 +3,6 @@
 ! public: false
 ! author: Matt Goldspink
 
-$discard
 $boost,$site=mixmag.net
 $boost,$site=ra.co
 $boost,$site=residentadvisor.net
