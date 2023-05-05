@@ -3,24 +3,24 @@
 ! public: false
 ! author: Matt Goldspink
 
-$boost,$site=mixmag.net
-$boost,$site=ra.co
-$boost,$site=residentadvisor.net
-$boost,$site=rollingstone.com
-$boost,$site=edm.com
-$boost,$site=www.nme.com
-$boost,$site=www.magneticmag.com
-$boost,$site=xlr8r.com
-$boost,$site=www.allmusic.com
-$boost,$site=consequence.net
-$boost,$site=djmag.com
-$boost,$site=discogs.com
-$boost,$site=balancemusic.com.au
-$boost,$site=pitchfork.com
-$boost,$site=upfrontbeats.com
-$boost,$site=www.popmatters.com
-$boost,$site=thequietus.com
-$boost,$site=www.stereogum.com
-$boost,$site=www.tinymixtapes.com
-$boost,$site=www.amazon.co.uk
-$boost,$site=www.amazon.com
+$boost,site=mixmag.net
+$boost,site=ra.co
+$boost,site=residentadvisor.net
+$boost,site=rollingstone.com
+$boost,site=edm.com
+$boost,site=www.nme.com
+$boost,site=www.magneticmag.com
+$boost,site=xlr8r.com
+$boost,site=www.allmusic.com
+$boost,site=consequence.net
+$boost,site=djmag.com
+$boost,site=discogs.com
+$boost,site=balancemusic.com.au
+$boost,site=pitchfork.com
+$boost,site=upfrontbeats.com
+$boost,site=www.popmatters.com
+$boost,site=thequietus.com
+$boost,site=www.stereogum.com
+$boost,site=www.tinymixtapes.com
+$boost,site=www.amazon.co.uk
+$boost,site=www.amazon.com
